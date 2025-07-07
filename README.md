@@ -7,7 +7,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 I’m currently working on: **Age & Gender Prediction using CNN**
+- 🔭 I’m currently working on: **Finding the Missing(DEEP LEARNING)**
 - 🌱 Learning: **React**, **PostgreSQL**, and **Advanced ML Models**
 - 👨‍🎓 B.Tech CSE (Data Science) @ GVPCE | Diploma in CME
 - 🏆 Kaggle Expert (2X), NPTEL Gold (IoT)
