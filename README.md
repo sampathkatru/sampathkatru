@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on: **Finding the Missing(DEEP LEARNING)**
 - 🌱 Learning: **React**, **PostgreSQL**, and **Advanced ML Models**
 - 👨‍🎓 B.Tech CSE (Data Science) @ GVPCE | Diploma in CME
-- 🏆 Kaggle Expert (2X), NPTEL Gold (IoT)
+- 🏆 Kaggle Expert (2X)
 - ✍️ Exploring visualization of algorithms, DSA, and ML pipelines
 
 ---
